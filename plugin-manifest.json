@@ -1,0 +1,9 @@
+{
+  "service": "CREATOR",
+  "cspDomains": {
+    "connect-src": [
+      "https://localhost:8080/*"
+    ]
+  },
+  "config": []
+}
